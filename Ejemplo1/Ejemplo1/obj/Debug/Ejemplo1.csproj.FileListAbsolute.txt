@@ -1,0 +1,2 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\Usuario\Source\Repos\PruebaEF\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
